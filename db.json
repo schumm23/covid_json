@@ -1,0 +1,17 @@
+{
+    "message": "200",
+    "data": [
+        {
+            "total_cases": "145k",
+            "active_cases": "30k",
+            "recovered_cases": "20k",
+            "daily_cases": "5k"
+        },
+        {
+            "identifier": "458k",
+            "active_cases": "10k",
+            "recovered_cases": "30k",
+            "daily_cases": "26k"
+        }
+    ]
+}
